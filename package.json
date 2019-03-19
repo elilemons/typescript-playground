@@ -1,0 +1,25 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "This is a place for me to play with Typescript while I take notes on the fun-da-mentals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisalemons/typescript-playground.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Lisa Lemons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisalemons/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/lisalemons/typescript-playground#readme",
+  "dependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
